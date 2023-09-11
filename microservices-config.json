@@ -1,28 +1,26 @@
 [
-   {
-     "name": "Microsservico aApiSpotify",
-     "command": "npm start",
-     "path": "./apiSpotify"
+  {
+    "name": "Microsservico aApiSpotify",
+    "path": "./apiSpotify"
+  },
+  {
+    "name": "Microsservico barramentoDeEventos",
+    "path": "./barramentoDeEventos"
+  },
+  {
+    "name": "Microsservico frontend",
+    "path": "./frontend"
+  },
+  {
+     "name": "Microsservico posts",
+     "path": "./posts"
    },
    {
-     "name": "Microsservico barramentoDeEventos",
-     "command": "npm start",
-     "path": "./barramentoDeEventos"
+     "name": "Microsservico usuarios",
+     "path": "./usuarios"
    },
    {
-     "name": "Microsservico frontend",
-     "command": "npm start",
-     "path": "./frontend"
-   },
-   {
-      "name": "Microsservico posts",
-      "command": "npm start",
-      "path": "./posts"
-    },
-    {
-      "name": "Microsservico usuarios",
-      "command": "npm start",
-      "path": "./usuarios"
-    }
- ]
- 
+     "name": "Classe Utilitaria",
+     "path": "./Util"
+   }
+]
